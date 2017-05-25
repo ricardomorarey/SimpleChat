@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Chat</string>
+    <string name="user_name">User name</string>
+    <string name="pasword">Pasword</string>
+    <string name="login">Login</string>
+    <string name="sing_up">Sing Up</string>
+</resources>
